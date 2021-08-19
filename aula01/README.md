@@ -83,6 +83,28 @@ Resultado:
 => String
 ```
 
+Para **sair** do `IRB`:
+
+```shell
+irb(main):001:0> exit
+```
+
+## Como executar os exemplos de código
+
+Um simples arquivo com a extensão `.rb` e com código Ruby dentro já é um script Ruby que pode ser executado, e é o que faremos nessa primeira aula. Nesse momento não já temos que ter o Ruby instalado e **não estar dentro do console IRB**, pois executaremos os scripts utilizando o comando do interpretador Ruby.
+
+Já temos algums arquivos com exemplos de código na pasta `aula01` (exatamente onde está ese README que você está lendo), para executar o `hello_world.rb`, por exemplo, digite:
+
+```shell
+$ ruby hello_world.rb
+```
+
+Resultado:
+
+```shell
+$ Hello World
+```
+
 ## Utilizando a documentação oficial
 
 Para conferir mais classes e todas as opções de métodos dessas classes, consulte a [documentação oficial do Ruby 2.6](https://ruby-doc.org/core-2.6.1). Lá você tem exemplos de uso dos métodos, descrição sobre eles, pode pesquisar por algum método ou classe específicos, e ainda pode conferir a implementação original do código da linguagem em C. =)
@@ -90,4 +112,3 @@ Para conferir mais classes e todas as opções de métodos dessas classes, consu
 Para pesquisar por uma classe ou método basta digitar o nome do que deseja consultar no respectivo campo de filtro que existe no [site da documentação](https://ruby-doc.org/core-2.6.1):
 
 ![image](https://user-images.githubusercontent.com/1815812/130061775-429ed4e4-2552-4c20-9686-3091e1571558.png)
-
