@@ -125,6 +125,7 @@ ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-linux]
 ## Principais links
 
 - [Ruby site](https://www.ruby-lang.org/)
+- [Ruby Documentation](https://ruby-doc.org/core-2.6/)
 - [Tutorials point - Ruby](https://www.tutorialspoint.com/ruby/index.htm)
 - [Practical Object-Oriented Design in Ruby by Sandi Metz](https://www.poodr.com/)
 - [The Ruby Way by Hal Fulton](http://therubyway.io/)
