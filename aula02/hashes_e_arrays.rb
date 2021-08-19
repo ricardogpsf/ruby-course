@@ -43,6 +43,10 @@ meu_array.push("trinta")
 meu_array << "quarenta"
 puts meu_array.inspect
 
+# Adicionando em uma posição qualquer
+meu_array.insert(2, "cinquenta")
+puts meu_array.inspect
+
 # Removendo um valor
 meu_array.delete_at(2)
 puts meu_array.inspect
@@ -50,3 +54,7 @@ puts meu_array.inspect
 # Ruby não retorna erro caso você acesse um valor que não existe, apenas retorna nil.
 # A versão string do nil é "", então não será possível ver o valor "nil" ao utilizar o puts (No IRB é possível).
 puts meu_array[100]
+
+# Array de strings
+meu_array = %w[um array com varias strings]
+puts meu_array.inspect

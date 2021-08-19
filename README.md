@@ -102,12 +102,17 @@ ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-linux]
 - [x] Working with numbers and arithmetic operators
 - [x] Logical operators
 - [x] Arrays and Hashes (Maps)
-- [ ] Strings
-- [ ] ~~Regular expressions in Ruby (Overview)~~
-- [ ] Ranges
-- [ ] Control structures (if/else, case), loop structures (for, foreach)
 
-### Class 2: Object oriented
+### Class 2: Data structures and Control structures
+
+- [x] Strings
+- [ ] ~~Regular expressions in Ruby (Overview)~~
+- [x] Ranges
+- [x] Control structures (if/else, case), loop structures (for, foreach)
+- [x] Loop methods of Hashes, Arrays and Ranges
+- [x] Methods
+
+### Class 3: Object oriented programming
 
 - [ ] Objects and Attributes
 - [ ] Access control
@@ -116,7 +121,7 @@ ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-linux]
 - [ ] Enumerators and Iterators
 - [ ] Functionality sharing: heritage, modules and Mixins
 
-### Class 3: Exception handling and file manipulation
+### Class 4: Exception handling and file manipulation
 
 - [ ] Exception handling in Ruby
 - [ ] Good practices in exceptions usage
