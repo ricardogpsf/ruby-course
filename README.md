@@ -108,7 +108,6 @@ ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-linux]
 ### Class 2: Data structures and Control structures
 
 - [x] Strings
-- [ ] ~~Regular expressions in Ruby (Overview)~~
 - [x] Ranges
 - [x] Control structures (if/else, case), loop structures (for, foreach)
 - [x] Loop methods of Hashes, Arrays and Ranges
@@ -116,18 +115,17 @@ ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-linux]
 
 ### Class 3: Object oriented programming
 
-- [ ] Objects and Attributes
-- [ ] Access control
-- [ ] Methods and blocks
-- [ ] Code blocks
-- [ ] Enumerators and Iterators
-- [ ] Functionality sharing: heritage, modules and Mixins
+- [x] Objects and Attributes
+- [x] Access control and methods
+- [x] Iterators
+- [x] Functionality sharing: heritage, modules and Mixins
 
-### Class 4: Exception handling and file manipulation
+### Class 4: Procs, Lambdas and Exception handling
 
-- [ ] Exception handling in Ruby
-- [ ] Good practices in exceptions usage
-- [ ] File manipulation
+- [x] Code blocks: procs and lambdas
+- [x] Exception handling in Ruby
+- [x] Good practices in exceptions usage
+- [x] The method_missing method and a bit of metaprogramming in Ruby
 
 ## Principais links
 
