@@ -20,6 +20,8 @@ Elaborando sobre isto, acrescenta:
     - [Executando o container Docker](#executando-o-container-docker)
 - [Estrutura do curso](#estrutura-do-curso)
 - [Principais links](#principais-links)
+- [Ruby style guide](#style-guide)
+- [Comandos úteis](#comandos-uteis)
 
 ## Sobre o curso
 

@@ -1,0 +1,6 @@
+Exercício:
+
+1 - Criar uma classe Validator que tem um método de validação de CPF e usar uma gem para aplicação a validação.
+Sugestão de gem: https://github.com/fnando/cpf_cnpj
+
+Ver solução no arquivo `cpf_validator.rb`

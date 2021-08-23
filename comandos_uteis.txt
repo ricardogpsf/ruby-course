@@ -1,0 +1,2 @@
+Listando uma gem específica:
+$ gem list | grep bundler
