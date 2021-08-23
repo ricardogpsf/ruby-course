@@ -138,3 +138,51 @@ ruby 2.6.6p146 (2020-03-31 revision 67876) [x86_64-linux]
   - [runrb.io](https://runrb.io/)
   - [Replit](https://replit.com/languages/ruby)
   - [TryRuby](https://try.ruby-lang.org/)
+
+## Style guide
+
+Ruby style guide:
+https://github.com/rubocop/ruby-style-guide
+
+## Comandos úteis
+
+- Listando todas as gems instaladas:
+
+```shell
+$ gem list | grep bundler
+```
+
+- Listando uma gem específica:
+
+```shell
+$ gem list | grep bundler
+```
+
+- Instalando uma nova gem diretamente com o comando "gem":
+
+```shell
+$ gem install nome_da_gem
+```
+
+```shell
+$ gem install nome_da_gem -v '0.1.2'
+```
+
+- Desintalando uma gem:
+
+```shell
+$ gem uninstall nome_da_gem
+```
+
+- Instalando e iniciando o Bundler para gerenciar gems (fazer isso apenas uma vez caso não exista ainda o arquivo Gemfile):
+
+```shell
+$ gem install bundler
+$ bundle init
+```
+
+- Instalando gems via Bundler (você precisa adicionar a gem no arquivo Gemfile):
+
+```shell
+$ bundle install
+```
